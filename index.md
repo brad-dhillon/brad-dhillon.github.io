@@ -33,7 +33,7 @@ International Foundation of Study Abroad · *August 2019*
 </ul>
 
 ## Skills
-Python, C++, Machine Learning(Torch & Tensorflow), MATLAB, AutoCAD, Controll Systems and Instrumentation, Calculus(SDEs, ODEs, & PDEs) 
+Python, C++, Machine Learning(Torch & Tensorflow), Bayesian Statistics(PyMC, Pyro, & STAN), MATLAB, AutoCAD, Controll Systems and Instrumentation, Calculus(SDEs, ODEs, & PDEs) 
 
 ## Resume
 [Download my resume (PDF)](resume.pdf)
